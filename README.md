@@ -183,5 +183,5 @@ TreeVision AI demonstrates a complete image classification workflow using Teacha
 <hr>
 
 <p align="center">
-Made with ❤️ using Teachable Machine, Google Colab, and Python.
+Made with ❤️ using Teachable Machine, Google Colab.
 </p>
